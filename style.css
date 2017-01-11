@@ -7,9 +7,27 @@
     .nav {
       color: white;
     }
+    body {
+    background-image: url("http://www.pcgamesn.com/sites/default/files/best%20overwatch%20characters.jpg");
+    background 
+    }
+    #genji{
+      height: 135px;
+      width: 35%;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    #overwatch{
+      
+      
+    }
     h1 {
       font-size: 70px;
     }
+    strike{ 
+      color:red;
+    }
+    
     img {
       margin: 40px 0px 0px 0px;
       border: 7px solid white;
